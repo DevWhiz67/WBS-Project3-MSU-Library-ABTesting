@@ -1,4 +1,4 @@
-# WBS-Project3-MSU-Library_A-B_Testing
+# WBS-Project3-MSU-Library-ABTesting
 ## Perform a Chi-squared test
 
 The Library of Montana State University has a website that students use to find books and articles. Below the library picture, there is a search bar and three big items: “Find”, “Request” and “Interact”. All three of them contain access to important information and services that the library prides itself in offering. However, the Website Analytics show that the “Interact” button has, ironically, almost no interactions. 
